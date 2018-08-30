@@ -72,7 +72,7 @@ class Config():
     use_pretrained = True
 
     # dataset
-    filename_dev = "data/msra06_dev.txt"
+    filename_dev = "data/msra06_test.txt"
     filename_test = "data/msra06_test.txt"
     filename_train = "data/msra06_train.txt"
 
